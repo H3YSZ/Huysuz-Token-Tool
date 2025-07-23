@@ -8,6 +8,8 @@
 
 - Keyifli ve güvenli kullanımlar dileriz!
 
+- Güncellemeler geldikçe yenileyeceğim ve sizleri haberdar edeceğim.
+
 ## Uyarı
 - Bu araç yalnızca eğitim amaçlıdır. Her türlü kötüye kullanım kullanıcının kendi sorumluluğundadır.
 
