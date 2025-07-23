@@ -1,0 +1,12 @@
+Çok yorularak ve zorlu şartlar altında bu toolu yazdım :)
+
+Bu aracı kullandığınız için teşekkür ederiz. Unutmayın, bu araç H3YSZ (https://github.com/H3YSZ) tarafından geliştirilmiş ve yayınlanmıştır.
+
+Bu aracın amacı, çeşitli bilgi güvenliği ve siber güvenlik işlemleri konusunda size yardımcı olmaktır. Ancak, bu aracı kötüye kullanarak yasa dışı faaliyetlerde bulunmanız veya başkalarına zarar vermeniz durumunda tüm sorumluluk size aittir.
+
+Lütfen aracı etik kurallar çerçevesinde ve yasalara uygun bir şekilde kullanmaya özen gösterin.
+
+Keyifli ve güvenli kullanımlar dileriz!
+
+Sevgilerle,
+By : Huysuz
