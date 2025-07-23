@@ -1,31 +1,18 @@
-# HUYSUZ TOOL
-Eğitim amaçlı Discord aracı. Token Checker, Mass DM, Webhook Spam, Proxy Checker, Scraper, Server Join ve Boosting gibi modüller içerir.
+# HUYSUZ TOKEN TOOL
 
-## Özellikler
-- Token Checker
-- Mass DM
-- Webhook Spam
-- Proxy Checker
-- Üye Scraper
-- Server Join
-- Boosting (Nitro token ile çalışır)
+- Bu aracı kullandığınız için teşekkür ederiz. Unutmayın, bu araç H3YSZ (https://github.com/H3YSZ) tarafından geliştirilmiş ve yayınlanmıştır.
 
-## Kurulum
-1. Gerekli kütüphaneleri yükleyin:
+- Bu aracın amacı, çeşitli bilgi güvenliği ve siber güvenlik işlemleri konusunda size yardımcı olmaktır. Ancak, bu aracı kötüye kullanarak yasa dışı faaliyetlerde bulunmanız veya başkalarına zarar vermeniz durumunda tüm sorumluluk size aittir.
 
-2. Başlatmak için:  pip install -r requirements.txt
+- Lütfen aracı etik kurallar çerçevesinde ve yasalara uygun bir şekilde kullanmaya özen gösterin.
 
-## data Klasörü İçeriği
-- proxies.txt
-- tokens.txt
-- servers.txt
-- users.txt
-- webhooks.txt
-
-Her satıra bir proxy, token, kullanıcı ID, sunucu ID veya webhook URL yazılır.
+- Keyifli ve güvenli kullanımlar dileriz!
 
 ## Uyarı
-Bu araç yalnızca eğitim amaçlıdır. Her türlü kötüye kullanım kullanıcının kendi sorumluluğundadır.
+- Bu araç yalnızca eğitim amaçlıdır. Her türlü kötüye kullanım kullanıcının kendi sorumluluğundadır.
 
-BU EĞTİM SETİ https://github.com/H3YSZ ADLI GİTHUB SAYFASINA AİTDİR !!!!!
-EĞTİM SETİNİN İZİNSİZ PAYLAŞILMASI SONUCUNDA GERKELİ İŞLEMLERE BAŞVURULUNACAKTIR
+- BU EĞTİM SETİ https://github.com/H3YSZ ADLI GİTHUB SAYFASINA AİTDİR !!!!!
+- EĞTİM SETİNİN İZİNSİZ PAYLAŞILMASI SONUCUNDA GERKELİ İŞLEMLERE BAŞVURULUNACAKTIR
+
+Sevgilerle,
+By : Huysuz
