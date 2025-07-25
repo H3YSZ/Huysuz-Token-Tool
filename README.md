@@ -16,7 +16,7 @@
 - Bu araç yalnızca eğitim amaçlıdır. Her türlü kötüye kullanım kullanıcının kendi sorumluluğundadır.
 
 - BU EĞTİM SETİ https://github.com/H3YSZ ADLI GİTHUB SAYFASINA AİTDİR !!!!!
-- TOOLUN İZİNSİZ PAYLAŞILMASI SONUCUNDA GERKELİ İŞLEMLERE BAŞVURULUNACAKTIR
+- TOOLUN İZİNSİZ PAYLAŞILMASI SONUCUNDA GEREKELİ İŞLEMLERE BAŞVURULUNACAKTIR
 
 Sevgilerle,
 By : Huysuz
